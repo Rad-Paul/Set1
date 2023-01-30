@@ -1,0 +1,15 @@
+D:\coding\repos\practice\Set1\Exe2\Exe2\bin\Debug\net6.0\Exe2.exe
+D:\coding\repos\practice\Set1\Exe2\Exe2\bin\Debug\net6.0\Exe2.deps.json
+D:\coding\repos\practice\Set1\Exe2\Exe2\bin\Debug\net6.0\Exe2.runtimeconfig.json
+D:\coding\repos\practice\Set1\Exe2\Exe2\bin\Debug\net6.0\Exe2.dll
+D:\coding\repos\practice\Set1\Exe2\Exe2\bin\Debug\net6.0\Exe2.pdb
+D:\coding\repos\practice\Set1\Exe2\Exe2\obj\Debug\net6.0\Exe2.csproj.AssemblyReference.cache
+D:\coding\repos\practice\Set1\Exe2\Exe2\obj\Debug\net6.0\Exe2.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\repos\practice\Set1\Exe2\Exe2\obj\Debug\net6.0\Exe2.AssemblyInfoInputs.cache
+D:\coding\repos\practice\Set1\Exe2\Exe2\obj\Debug\net6.0\Exe2.AssemblyInfo.cs
+D:\coding\repos\practice\Set1\Exe2\Exe2\obj\Debug\net6.0\Exe2.csproj.CoreCompileInputs.cache
+D:\coding\repos\practice\Set1\Exe2\Exe2\obj\Debug\net6.0\Exe2.dll
+D:\coding\repos\practice\Set1\Exe2\Exe2\obj\Debug\net6.0\refint\Exe2.dll
+D:\coding\repos\practice\Set1\Exe2\Exe2\obj\Debug\net6.0\Exe2.pdb
+D:\coding\repos\practice\Set1\Exe2\Exe2\obj\Debug\net6.0\Exe2.genruntimeconfig.cache
+D:\coding\repos\practice\Set1\Exe2\Exe2\obj\Debug\net6.0\ref\Exe2.dll
