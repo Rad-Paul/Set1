@@ -1,0 +1,15 @@
+D:\coding\repos\practice\Set1\ex18\ex18\bin\Debug\net6.0\ex18.exe
+D:\coding\repos\practice\Set1\ex18\ex18\bin\Debug\net6.0\ex18.deps.json
+D:\coding\repos\practice\Set1\ex18\ex18\bin\Debug\net6.0\ex18.runtimeconfig.json
+D:\coding\repos\practice\Set1\ex18\ex18\bin\Debug\net6.0\ex18.dll
+D:\coding\repos\practice\Set1\ex18\ex18\bin\Debug\net6.0\ex18.pdb
+D:\coding\repos\practice\Set1\ex18\ex18\obj\Debug\net6.0\ex18.csproj.AssemblyReference.cache
+D:\coding\repos\practice\Set1\ex18\ex18\obj\Debug\net6.0\ex18.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\repos\practice\Set1\ex18\ex18\obj\Debug\net6.0\ex18.AssemblyInfoInputs.cache
+D:\coding\repos\practice\Set1\ex18\ex18\obj\Debug\net6.0\ex18.AssemblyInfo.cs
+D:\coding\repos\practice\Set1\ex18\ex18\obj\Debug\net6.0\ex18.csproj.CoreCompileInputs.cache
+D:\coding\repos\practice\Set1\ex18\ex18\obj\Debug\net6.0\ex18.dll
+D:\coding\repos\practice\Set1\ex18\ex18\obj\Debug\net6.0\refint\ex18.dll
+D:\coding\repos\practice\Set1\ex18\ex18\obj\Debug\net6.0\ex18.pdb
+D:\coding\repos\practice\Set1\ex18\ex18\obj\Debug\net6.0\ex18.genruntimeconfig.cache
+D:\coding\repos\practice\Set1\ex18\ex18\obj\Debug\net6.0\ref\ex18.dll
