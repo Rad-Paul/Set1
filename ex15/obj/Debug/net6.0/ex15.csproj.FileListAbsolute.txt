@@ -1,0 +1,15 @@
+D:\coding\repos\practice\Set1\ex15\ex15\bin\Debug\net6.0\ex15.exe
+D:\coding\repos\practice\Set1\ex15\ex15\bin\Debug\net6.0\ex15.deps.json
+D:\coding\repos\practice\Set1\ex15\ex15\bin\Debug\net6.0\ex15.runtimeconfig.json
+D:\coding\repos\practice\Set1\ex15\ex15\bin\Debug\net6.0\ex15.dll
+D:\coding\repos\practice\Set1\ex15\ex15\bin\Debug\net6.0\ex15.pdb
+D:\coding\repos\practice\Set1\ex15\ex15\obj\Debug\net6.0\ex15.csproj.AssemblyReference.cache
+D:\coding\repos\practice\Set1\ex15\ex15\obj\Debug\net6.0\ex15.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\repos\practice\Set1\ex15\ex15\obj\Debug\net6.0\ex15.AssemblyInfoInputs.cache
+D:\coding\repos\practice\Set1\ex15\ex15\obj\Debug\net6.0\ex15.AssemblyInfo.cs
+D:\coding\repos\practice\Set1\ex15\ex15\obj\Debug\net6.0\ex15.csproj.CoreCompileInputs.cache
+D:\coding\repos\practice\Set1\ex15\ex15\obj\Debug\net6.0\ex15.dll
+D:\coding\repos\practice\Set1\ex15\ex15\obj\Debug\net6.0\refint\ex15.dll
+D:\coding\repos\practice\Set1\ex15\ex15\obj\Debug\net6.0\ex15.pdb
+D:\coding\repos\practice\Set1\ex15\ex15\obj\Debug\net6.0\ex15.genruntimeconfig.cache
+D:\coding\repos\practice\Set1\ex15\ex15\obj\Debug\net6.0\ref\ex15.dll
