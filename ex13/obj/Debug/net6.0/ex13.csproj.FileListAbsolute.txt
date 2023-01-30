@@ -1,0 +1,15 @@
+D:\coding\repos\practice\Set1\ex13\ex13\bin\Debug\net6.0\ex13.exe
+D:\coding\repos\practice\Set1\ex13\ex13\bin\Debug\net6.0\ex13.deps.json
+D:\coding\repos\practice\Set1\ex13\ex13\bin\Debug\net6.0\ex13.runtimeconfig.json
+D:\coding\repos\practice\Set1\ex13\ex13\bin\Debug\net6.0\ex13.dll
+D:\coding\repos\practice\Set1\ex13\ex13\bin\Debug\net6.0\ex13.pdb
+D:\coding\repos\practice\Set1\ex13\ex13\obj\Debug\net6.0\ex13.csproj.AssemblyReference.cache
+D:\coding\repos\practice\Set1\ex13\ex13\obj\Debug\net6.0\ex13.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\repos\practice\Set1\ex13\ex13\obj\Debug\net6.0\ex13.AssemblyInfoInputs.cache
+D:\coding\repos\practice\Set1\ex13\ex13\obj\Debug\net6.0\ex13.AssemblyInfo.cs
+D:\coding\repos\practice\Set1\ex13\ex13\obj\Debug\net6.0\ex13.csproj.CoreCompileInputs.cache
+D:\coding\repos\practice\Set1\ex13\ex13\obj\Debug\net6.0\ex13.dll
+D:\coding\repos\practice\Set1\ex13\ex13\obj\Debug\net6.0\refint\ex13.dll
+D:\coding\repos\practice\Set1\ex13\ex13\obj\Debug\net6.0\ex13.pdb
+D:\coding\repos\practice\Set1\ex13\ex13\obj\Debug\net6.0\ex13.genruntimeconfig.cache
+D:\coding\repos\practice\Set1\ex13\ex13\obj\Debug\net6.0\ref\ex13.dll
